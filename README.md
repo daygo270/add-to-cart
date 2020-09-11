@@ -17,6 +17,8 @@ Hey everybody, I am building my own website, and i have a problem. When I try to
 		<div id="products">
 			<ul>
 				<li>
+					
+					
 					<div class="product-image">
 						<img src="../images/ice-blue.PNG" alt="" />
 					</div>
