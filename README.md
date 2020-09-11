@@ -1,17 +1,11 @@
 # add-to-cart
-//Hey everybody, I am building my own website, and i have a problem. When I try to send the product to the cart all it does is send you to the cart. How can I send all the info to the cart?
+Hey everybody, I am building my own website, and i have a problem. When I try to send the product to the cart all it does is send you to the cart. How can I send all the info to the cart?
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Congradulations</title>
-<meta charset="utf-8" />
-<link rel="stylesheet" href="../cart/cart-test.css" media="screen" type="text/css" />
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<script type="text/javascript" src="../cart/cart-test.js"></script>
-</head>
+
+
+
 <body>
 <div id="site">
 	<header id="masthead">
